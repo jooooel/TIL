@@ -57,6 +57,8 @@
 
 [📝 Managing Helm releases the GitOps way](https://github.com/fluxcd/helm-operator-get-started)
 
+[▶️ Accessing Key Vault secrets from an Azure Kubernetes Cluster](https://www.youtube.com/watch?v=XIahaT2tc3Y) - Great video with examples on how to use both "AAD Pod Identity" and "Azure Key Vault Provider for Secrets Store CSI Driver" to access secrets from an Azure Key Vault from within an AKS cluster. The example code can be found in [this repo](https://github.com/neilpeterson/talk-kubernetes-key-vault).
+
 ## Cassandra
 [▶️ Introduction to Apache Cassandra](https://www.youtube.com/watch?v=B_HTdrTgGNs)
  
