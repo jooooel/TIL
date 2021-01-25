@@ -68,6 +68,9 @@
 ## Elastic Search
 [📝 In depth guide to running Elasticsearch in production](https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production/)
 
+## Redis
+[📝 SQL index on hash attributes in Redis](https://www.memurai.com/blog/model-hash-attributes-using-secondary-indexes-in-redis-and-memurai) - Exaplains different techniques for setting up a secondary index on Redis.
+
 ## Terraform
 [📝 Create a Kubernetes cluster with Azure Kubernetes Service using Terraform](https://docs.microsoft.com/en-us/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks)
 
