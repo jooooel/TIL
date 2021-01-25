@@ -84,6 +84,8 @@
 
 
 # Misc
+[🎧 Stefan Prodan on Progressive Delivery, Flagger, and GitOps](https://soundcloud.com/infoq-channel/interview-stefan-prodan)
+
 [▶️ Domain-driven refactoring](https://m.youtube.com/watch?v=_dQRAsVhCqA) - Great video by Jimmy Bogard with concrete tips on how to refactor code into domain models
 
 [🌮 Pacco](https://github.com/devmentors/Pacco) - Full Microservice example using Prometheus, Grafana, Jaeger, etc...
