@@ -21,6 +21,8 @@
 
 [📝 6 Best Practices to Keep a .NET Application’s Memory Healthy](https://michaelscodingspot.com/application-memory-health/) - Basic information about garbage collection and memory usage.
 
+[📝 Introduction to Benchmarking in C# and ASP.NET Core Projects](https://code-maze.com/benchmarking-csharp-and-asp-net-core-projects/) - Introduction to BenchmarkDotNet
+
 ## Debugging
 
 [Kestrel stops serving https (http2) requests after reboot under load](https://github.com/dotnet/aspnetcore/issues/21183) - Great thread with tips on debugging locks, dotnet counters, traces, etc
