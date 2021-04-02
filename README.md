@@ -114,3 +114,5 @@
 [📝 Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
 [▶️ GopherCon 2019: Mat Ryer - How I Write HTTP Web Services after Eight Years](https://www.youtube.com/watch?v=rWBSMsLG8po)
+
+[📝 Practical Go lessons](https://www.practical-go-lessons.com)
