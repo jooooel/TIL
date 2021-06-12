@@ -69,6 +69,8 @@
 
 [📝 A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) - Hands on tips on how to find out what's wrong with your deployments
 
+[📝 How to debug Kubernetes Pending pods and scheduling failures](https://www.datadoghq.com/blog/debug-kubernetes-pending-pods/)
+
 ## Cassandra
 [▶️ Introduction to Apache Cassandra](https://www.youtube.com/watch?v=B_HTdrTgGNs)
  
