@@ -38,6 +38,9 @@
 ## Memory & Garbage Collection
 [📝 Memory Management and Patterns in ASP.NET Core](https://github.com/sebastienros/memoryleak) - A text about how memory management works on ASP.NET Core, and the difference between sever and workstation GC.
 
+# Architecture
+[▶️ On .NET Live - Commands, Queries, and Clean Architecture](https://m.youtube.com/watch?v=IRvDGPbxdTs) - A video with Ian Cooper about clean architecture 
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
