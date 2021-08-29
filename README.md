@@ -118,6 +118,8 @@
 
 [📝 Online migrations at scale](https://stripe.com/blog/online-migrations)
 
+[📝 An Introduction to JQ](https://earthly.dev/blog/jq-select/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Covers the basics of JQ
+
 # Golang
 [📝 Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
