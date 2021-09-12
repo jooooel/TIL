@@ -77,6 +77,8 @@
 
 [📝 How to debug Kubernetes Pending pods and scheduling failures](https://www.datadoghq.com/blog/debug-kubernetes-pending-pods/)
 
+[📝 How to rightsize the Kubernetes resource limits](https://sysdig.com/blog/kubernetes-resource-limits/) - Prometheus queries to help find and plan resource limits.
+
 ## Cassandra
 [▶️ Introduction to Apache Cassandra](https://www.youtube.com/watch?v=B_HTdrTgGNs)
  
