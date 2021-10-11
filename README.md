@@ -41,6 +41,8 @@
 # Architecture
 [▶️ On .NET Live - Commands, Queries, and Clean Architecture](https://m.youtube.com/watch?v=IRvDGPbxdTs) - A video with Ian Cooper about clean architecture 
 
+[📝 Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
