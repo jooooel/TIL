@@ -84,6 +84,8 @@
 
 [📝 How to rightsize the Kubernetes resource limits](https://sysdig.com/blog/kubernetes-resource-limits/) - Prometheus queries to help find and plan resource limits.
 
+[📝 Exploring Kubernetes Operator Pattern](https://iximiuz.com/en/posts/kubernetes-operator-pattern/) - Mostly about CRDs and the kubernetes API.
+
 ## Cassandra
 [▶️ Introduction to Apache Cassandra](https://www.youtube.com/watch?v=B_HTdrTgGNs)
  
