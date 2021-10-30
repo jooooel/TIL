@@ -44,6 +44,8 @@
 
 [📝 Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 
+[🌍 Refactoring guru](https://refactoring.guru/) - Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
