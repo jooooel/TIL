@@ -129,6 +129,8 @@
 
 [📝 An Introduction to JQ](https://earthly.dev/blog/jq-select/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Covers the basics of JQ
 
+[📝 How we automatized our release process into just 3 clicks](https://sudolabs.com/blog/how-we-automatized-our-release-process-into-just-3-clicks) - Examples of GitHub Actions to automate creating PRs and merging between branches.
+
 # Golang
 [📝 Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
