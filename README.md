@@ -36,6 +36,8 @@
 
 [📝 Debugging .NET Core memory issues (on Linux) with dotnet dump](https://www.tessferrandez.com/blog/2021/03/18/debugging-a-netcore-memory-issue-with-dotnet-dump.html)
 
+[▶️ Running .NET Core performance investigation on Linux](https://www.youtube.com/watch?v=y4-h3qyDpJo) - _"f you don't know how to run a .NET performance investigation on Linux in this talk I am introducing dotnet trace, speedscope, perfcollect, chromium dev tools, VTune, and Rider and show how to use them to identify perf bottlenecks"_
+
 ## Memory & Garbage Collection
 [📝 Memory Management and Patterns in ASP.NET Core](https://github.com/sebastienros/memoryleak) - A text about how memory management works on ASP.NET Core, and the difference between sever and workstation GC.
 
