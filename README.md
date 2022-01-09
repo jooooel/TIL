@@ -133,6 +133,8 @@
 
 [📝 How we automatized our release process into just 3 clicks](https://sudolabs.com/blog/how-we-automatized-our-release-process-into-just-3-clicks) - Examples of GitHub Actions to automate creating PRs and merging between branches.
 
+[🐳 Life is to short to use dated cli tools that suck](https://mobile.twitter.com/amilajack/status/1479328649820000256) - Try these instead
+
 # Golang
 [📝 Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
