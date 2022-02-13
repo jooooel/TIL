@@ -136,6 +136,8 @@
 
 [🐳 Life is to short to use dated cli tools that suck](https://mobile.twitter.com/amilajack/status/1479328649820000256) - Try these instead. A list of alternative (improved) cli tools to use instead of cat, ls, diff, etc.
 
+[📝 The Delivery Hero Reliability Manifesto](https://tech.deliveryhero.com/our-reliability-manifesto/)
+
 # Golang
 [📝 Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
