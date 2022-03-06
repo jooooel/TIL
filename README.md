@@ -138,6 +138,8 @@
 
 [📝 The Delivery Hero Reliability Manifesto](https://tech.deliveryhero.com/our-reliability-manifesto/)
 
+[📝 Basic Network Troubleshooting](https://www.netmeister.org/blog/basic-network-troubleshooting.html)
+
 # Golang
 [📝 Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
