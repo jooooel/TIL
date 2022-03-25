@@ -138,6 +138,8 @@
 
 [🐳 Life is to short to use dated cli tools that suck](https://mobile.twitter.com/amilajack/status/1479328649820000256) - Try these instead. A list of alternative (improved) cli tools to use instead of cat, ls, diff, etc.
 
+[👨‍💻 Modern Unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern CLI tools for Unix systems. 
+
 [📝 The Delivery Hero Reliability Manifesto](https://tech.deliveryhero.com/our-reliability-manifesto/)
 
 [📝 Basic Network Troubleshooting](https://www.netmeister.org/blog/basic-network-troubleshooting.html)
