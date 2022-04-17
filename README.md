@@ -115,6 +115,8 @@
 ## Monitoring
 [🎧 Grafana](https://softwareengineeringdaily.com/2020/06/11/grafana-with-torkel-odegaard/?utm_source=rss&utm_medium=rss&utm_campaign=grafana-with-torkel-odegaard)
 
+[📝 How to drop and delete metrics in Prometheus](https://tanmay-bhat.medium.com/how-to-drop-and-delete-metrics-in-prometheus-7f5e6911fb33)
+
 # Misc
 [🎧 Stefan Prodan on Progressive Delivery, Flagger, and GitOps](https://soundcloud.com/infoq-channel/interview-stefan-prodan)
 
