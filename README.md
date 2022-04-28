@@ -54,6 +54,9 @@
 [🎧 Sam Newman: Monolith to Microservices](https://overcast.fm/+GdnUR3zCs)
 
 # Infrastructure
+## Azure
+[📝 Azure Application Gateway for dummies](https://dev.to/kaiwalter/azure-application-gateway-for-dummies-dj3)
+
 ## Docker
 [🐋 .NET Client for Docker Remote API](https://github.com/dotnet/Docker.DotNet)
 
