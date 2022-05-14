@@ -59,6 +59,8 @@
 ## Azure
 [📝 Azure Application Gateway for dummies](https://dev.to/kaiwalter/azure-application-gateway-for-dummies-dj3)
 
+[▶️ Microsoft Application Gateway deep dive](https://youtu.be/B3O6bXu-NbM) - Great video explaining the concepts of AG.
+
 ## Docker
 [🐋 .NET Client for Docker Remote API](https://github.com/dotnet/Docker.DotNet)
 
