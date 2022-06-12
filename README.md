@@ -155,6 +155,8 @@
 
 [📝 Basic Network Troubleshooting](https://www.netmeister.org/blog/basic-network-troubleshooting.html)
 
+[📝 ▶️ Node.js Rocks in Docker](https://github.com/BretFisher/nodejs-rocks-in-docker) - In-depth details on building container images for Node.js projects.
+
 # Golang
 [📝 Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
