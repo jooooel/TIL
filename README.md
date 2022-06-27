@@ -61,6 +61,8 @@
 
 [▶️ Microsoft Application Gateway deep dive](https://youtu.be/B3O6bXu-NbM) - Great video explaining the concepts of AG.
 
+[▶️ Publish Your AKS Services with Azure Private Link and Front Door](https://www.youtube.com/watch?v=WGXBKMzxci4)
+
 ## Docker
 [🐋 .NET Client for Docker Remote API](https://github.com/dotnet/Docker.DotNet)
 
