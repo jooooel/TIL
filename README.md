@@ -50,6 +50,8 @@
 
 [🌍 Refactoring guru](https://refactoring.guru/) - Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 
+[▶️ ASP.NET Community Standup - Implementing Authentication and Security in ASP.NET Core](https://m.youtube.com/watch?v=eQ7eLOA69T0) - A summary of different authentication flows and when to choose which. 
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
