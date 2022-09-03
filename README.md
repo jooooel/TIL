@@ -24,6 +24,9 @@
 [📝 Introduction to Benchmarking in C# and ASP.NET Core Projects](https://code-maze.com/benchmarking-csharp-and-asp-net-core-projects/) - Introduction to BenchmarkDotNet
 
 [📝 Performance Tuning for .NET Core](https://reubenbond.github.io/posts/dotnet-perf-tuning) - A list of things to consider when every nanosecond counts. 
+
+[📝 A comprehensive overview of authentication in ASP.NET Core – for fellow developers who're struggling with authentication in .NET](https://www.reddit.com/r/dotnet/comments/we9qx8/a_comprehensive_overview_of_authentication_in/)
+
 ## Debugging
 
 [Kestrel stops serving https (http2) requests after reboot under load](https://github.com/dotnet/aspnetcore/issues/21183) - Great thread with tips on debugging locks, dotnet counters, traces, etc
