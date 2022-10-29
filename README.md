@@ -107,6 +107,9 @@
 
 [▶️ Change Data Capture for Distributed Databases @Netflix](https://www.infoq.com/presentations/netflix-cdc-events-cassandra/)
 
+## Postgres
+[📝 Push-based Outbox Pattern with Postgres Logical Replication](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/?utm_source=substack&utm_medium=email)
+
 ## Messaging
 [📝 The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
