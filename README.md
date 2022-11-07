@@ -57,6 +57,8 @@
 
 [▶️ ASP.NET Community Standup - Securing ASP.NET Core APIs](https://m.youtube.com/watch?v=31InoJvyCSA) - Damien Bowden part II
 
+[📝 ASP.NET Core Community Standup Securing APIs](https://github.com/damienbod/aspnetcore-standup-securing-apis) - A readme by Damien Bowden on different ways of securing an API
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
