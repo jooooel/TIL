@@ -138,6 +138,8 @@
 
 [📝 Apache Kafka Consumer Lag Monitoring](https://sematext.com/blog/kafka-consumer-lag-offsets-monitoring/)
 
+[🐳 .NET OpenTelemtry monitoring](https://twitter.com/davidfowl/status/1589060065134534659) - A Twitter thread on how to setup OpenTelemetry with ASP.NET Core. Tips on dashboards, exporters, metrics and other stuff linked in the comments.
+
 # Misc
 [🎧 Stefan Prodan on Progressive Delivery, Flagger, and GitOps](https://soundcloud.com/infoq-channel/interview-stefan-prodan)
 
