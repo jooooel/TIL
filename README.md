@@ -27,6 +27,8 @@
 
 [📝 A comprehensive overview of authentication in ASP.NET Core – for fellow developers who're struggling with authentication in .NET](https://www.reddit.com/r/dotnet/comments/we9qx8/a_comprehensive_overview_of_authentication_in/)
 
+[🐳 Prevent the "cache stampede" problem](https://mobile.twitter.com/davidfowl/status/1591685784364797953) - David Fowler: "GetOrAddAsync ensures the operation will only be performed once, and others will wait on that operation to complete. This prevents the classic "cache stampede" problem."
+
 ## Debugging
 
 [Kestrel stops serving https (http2) requests after reboot under load](https://github.com/dotnet/aspnetcore/issues/21183) - Great thread with tips on debugging locks, dotnet counters, traces, etc
