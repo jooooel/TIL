@@ -175,6 +175,8 @@
 
 [📝 ▶️ Node.js Rocks in Docker](https://github.com/BretFisher/nodejs-rocks-in-docker) - In-depth details on building container images for Node.js projects.
 
+[📝 Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
+
 # Golang
 [📝 Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
