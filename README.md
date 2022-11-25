@@ -43,6 +43,8 @@
 
 [▶️ Running .NET Core performance investigation on Linux](https://www.youtube.com/watch?v=y4-h3qyDpJo) - _"f you don't know how to run a .NET performance investigation on Linux in this talk I am introducing dotnet trace, speedscope, perfcollect, chromium dev tools, VTune, and Rider and show how to use them to identify perf bottlenecks"_
 
+[📝 Debug a deadlock in .NET Core])(https://learn.microsoft.com/en-us/dotnet/core/diagnostics/debug-deadlock?tabs=windows)
+
 [📝 What diagnostic tools are available in .NET Core?](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/)
 
 ## Memory & Garbage Collection
