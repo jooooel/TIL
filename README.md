@@ -17,6 +17,8 @@
 
 [▶️ Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://m.facebook.com/story.php?story_fbid=2890760374340656&id=511948345523789&_rdr) - Jimmy Bogard on how to implement Open Telemetry
 
+[🐥 .NET, Open Telemetry & Prometheus](https://twitter.com/davidfowl/status/1589060065134534659) - Twitter thread by David Fowler with tips on how to use OpenTelemetry with .NET and how to setup an exporter for Prometheus. How to setup monitoring for internals like Thread pool, GC, etc.
+
 [▶️ Cloud native apps with .NET and AKS](https://www.youtube.com/watch?v=HzQgIng_DNE&app=desktop) - Getting started with Tye. Kubernetes and Observability with Zipkin and Elastic/Kibana.
 
 [📝 6 Best Practices to Keep a .NET Application’s Memory Healthy](https://michaelscodingspot.com/application-memory-health/) - Basic information about garbage collection and memory usage.
