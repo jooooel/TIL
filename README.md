@@ -29,6 +29,8 @@
 
 [📝 A comprehensive overview of authentication in ASP.NET Core – for fellow developers who're struggling with authentication in .NET](https://www.reddit.com/r/dotnet/comments/we9qx8/a_comprehensive_overview_of_authentication_in/)
 
+[▶️ Basics Part 1: Introduction to ASP.NET Core Authentication & Authorization](https://youtu.be/02Yh3sxzAYI) - A detailed video on how authentication and authorization works. Why do we need both .AddAuthentication and .UseAuthentication()?
+
 [🐳 Prevent the "cache stampede" problem](https://mobile.twitter.com/davidfowl/status/1591685784364797953) - David Fowler: "GetOrAddAsync ensures the operation will only be performed once, and others will wait on that operation to complete. This prevents the classic "cache stampede" problem."
 
 ## Debugging
