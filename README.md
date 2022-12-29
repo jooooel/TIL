@@ -63,9 +63,11 @@
 
 [▶️ ASP.NET Community Standup - Implementing Authentication and Security in ASP.NET Core](https://m.youtube.com/watch?v=eQ7eLOA69T0) - Damien Bowden part I: A summary of different authentication flows and when to choose which. 
 
-[▶️ ASP.NET Community Standup - Securing ASP.NET Core APIs](https://m.youtube.com/watch?v=31InoJvyCSA) - Damien Bowden part II
+[▶️ ASP.NET Community Standup - Securing ASP.NET Core APIs](https://m.youtube.com/watch?v=31InoJvyCSA) - Damien Bowden part II.
 
-[📝 ASP.NET Core Community Standup Securing APIs](https://github.com/damienbod/aspnetcore-standup-securing-apis) - A readme by Damien Bowden on different ways of securing an API
+[📝 ASP.NET Core Community Standup Securing APIs](https://github.com/damienbod/aspnetcore-standup-securing-apis) - A readme by Damien Bowden on different ways of securing an API.
+
+[📝 Stop overloading JWTs with permission claims](https://sdoxsee.github.io/blog/2020/01/06/stop-overloading-jwts-with-permission-claims.html) - Explains that it's not good to put permission claims in the JWT token, but doesn't really offer a better alternative.
 
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
