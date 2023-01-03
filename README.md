@@ -69,6 +69,8 @@
 
 [📝 Stop overloading JWTs with permission claims](https://sdoxsee.github.io/blog/2020/01/06/stop-overloading-jwts-with-permission-claims.html) - Explains that it's not good to put permission claims in the JWT token, but doesn't really offer a better alternative.
 
+[🐥 Auth for Todo application](https://mobile.twitter.com/davidfowl/status/1597476952872718337) - David Fowler adding authentication to his sample Todo application
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
