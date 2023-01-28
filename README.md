@@ -33,6 +33,8 @@
 
 [🐳 Prevent the "cache stampede" problem](https://mobile.twitter.com/davidfowl/status/1591685784364797953) - David Fowler: "GetOrAddAsync ensures the operation will only be performed once, and others will wait on that operation to complete. This prevents the classic "cache stampede" problem."
 
+[📝 Serilog best practices](https://benfoster.io/blog/serilog-best-practices/#standard-log-properties)
+
 ## Debugging
 
 [Kestrel stops serving https (http2) requests after reboot under load](https://github.com/dotnet/aspnetcore/issues/21183) - Great thread with tips on debugging locks, dotnet counters, traces, etc
