@@ -73,6 +73,8 @@
 
 [🐥 Auth for Todo application](https://mobile.twitter.com/davidfowl/status/1597476952872718337) - David Fowler adding authentication to his sample Todo application
 
+[▶️ ASP.NET Community Standup - Taking a look at the TodoApi Sample App](https://youtube.com/watch?v=moJjFXVO9Mw) - David Fowler showing off the Todo application. Interesting regarding the authentication. How the frontend uses a cookie to authenticate against the BFF, and then uses another token against the API.
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
