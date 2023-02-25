@@ -75,6 +75,8 @@
 
 [▶️ ASP.NET Community Standup - Taking a look at the TodoApi Sample App](https://youtube.com/watch?v=moJjFXVO9Mw) - David Fowler showing off the Todo application. Interesting regarding the authentication. How the frontend uses a cookie to authenticate against the BFF, and then uses another token against the API.
 
+[▶️ CQRS is simpler than you think with C#11 and .NET 7! - Oskar Dudycz](https://youtu.be/iY7LO289qnQ) - A talk on CQRS, feature folders and how to organize your code.
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
