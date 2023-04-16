@@ -77,6 +77,8 @@
 
 [▶️ CQRS is simpler than you think with C#11 and .NET 7! - Oskar Dudycz](https://youtu.be/iY7LO289qnQ) - A talk on CQRS, feature folders and how to organize your code.
 
+[📝 Comparing the backend for frontend (BFF) security architecture with an SPA UI using a public API](https://damienbod.com/2022/01/10/comparing-the-backend-for-frontend-bff-security-architecture-with-an-spa-ui-using-a-public-api/)
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
