@@ -79,6 +79,8 @@
 
 [📝 Comparing the backend for frontend (BFF) security architecture with an SPA UI using a public API](https://damienbod.com/2022/01/10/comparing-the-backend-for-frontend-bff-security-architecture-with-an-spa-ui-using-a-public-api/)
 
+[▶️ The insecurity of OAuth 2.0 in frontends - Philippe de Ryck - NDC Security 2023](https://m.youtube.com/watch?v=OpFN6gmct8c) - Examplifying why you should use a BFF and not handle tokens in the browser. 
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
