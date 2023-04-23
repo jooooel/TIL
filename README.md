@@ -81,6 +81,8 @@
 
 [▶️ The insecurity of OAuth 2.0 in frontends - Philippe de Ryck - NDC Security 2023](https://m.youtube.com/watch?v=OpFN6gmct8c) - Examplifying why you should use a BFF and not handle tokens in the browser. 
 
+[▶️ Securing SPAs and Blazor Applications using the BFF (Backend for Frontend) Pattern - Dominick Baier](https://youtu.be/hWJuX-8Ur2k)
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
