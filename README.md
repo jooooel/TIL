@@ -83,6 +83,8 @@
 
 [▶️ Securing SPAs and Blazor Applications using the BFF (Backend for Frontend) Pattern - Dominick Baier](https://youtu.be/hWJuX-8Ur2k)
 
+[📝 Delegation Patterns for OAuth 2.0 using Token Exchange](https://www.scottbrady91.com/oauth/delegation-patterns-for-oauth-20) - How to delegate an authenticated user to another API, behind a gateway for example.
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
