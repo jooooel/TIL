@@ -85,6 +85,8 @@
 
 [📝 Delegation Patterns for OAuth 2.0 using Token Exchange](https://www.scottbrady91.com/oauth/delegation-patterns-for-oauth-20) - How to delegate an authenticated user to another API, behind a gateway for example.
 
+[📝 Proof of Concept for an Auth Gateway for SPA using YARP](https://github.com/manfredsteyer/yarp-auth-proxy) - Cookie auth between client and server (BFF/Gateway using YARP). The server holds tokens to downstream API:s. Client noes nothing of tokens.
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
