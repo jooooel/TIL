@@ -35,7 +35,7 @@
 
 [📝 Serilog best practices](https://benfoster.io/blog/serilog-best-practices/#standard-log-properties)
 
-[Deep dive into .NET performance and native AOT](https://youtu.be/1eHjemGKfRw) - Demo how to profile memory and CPU, and also some concrete advoice on perfomance improvements for ASP.NET and EF.
+[▶️ Deep dive into .NET performance and native AOT](https://youtu.be/1eHjemGKfRw) - Demo how to profile memory and CPU, and also some concrete advoice on perfomance improvements for ASP.NET and EF.
 
 ## Debugging
 
