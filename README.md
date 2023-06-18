@@ -37,6 +37,8 @@
 
 [▶️ Deep dive into .NET performance and native AOT](https://youtu.be/1eHjemGKfRw) - Demo how to profile memory and CPU, and also some concrete advoice on perfomance improvements for ASP.NET and EF.
 
+[▶️ Turbocharged: Writing High-performance C# and .NET code, by Steve Gordon](https://youtu.be/g8MYUfplpt8)
+
 ## Debugging
 
 [Kestrel stops serving https (http2) requests after reboot under load](https://github.com/dotnet/aspnetcore/issues/21183) - Great thread with tips on debugging locks, dotnet counters, traces, etc
