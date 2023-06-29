@@ -213,3 +213,5 @@
 [▶️ GopherCon 2019: Mat Ryer - How I Write HTTP Web Services after Eight Years](https://www.youtube.com/watch?v=rWBSMsLG8po)
 
 [📝 Practical Go lessons](https://www.practical-go-lessons.com)
+
+[📝 How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/?utm_source=substack&utm_medium=email)
