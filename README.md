@@ -207,6 +207,8 @@
 
 [📝 Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 
+[🏃‍♂️ SQL scripts migration runner](https://github.com/erikbra/grate)
+
 # Golang
 [📝 Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
