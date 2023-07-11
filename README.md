@@ -39,6 +39,8 @@
 
 [▶️ Turbocharged: Writing High-performance C# and .NET code, by Steve Gordon](https://youtu.be/g8MYUfplpt8)
 
+[Here's some code that is on the hot path on your application and you want to optimize it](https://twitter.com/davidfowl/status/1678738294933159937?s=46&t=yujw2DLNFv52_bOxw4c15g) - David Fowler explaining how a string finding/splitting problem can be tackled to reduce allocations and optimize performance.
+
 ## Debugging
 
 [Kestrel stops serving https (http2) requests after reboot under load](https://github.com/dotnet/aspnetcore/issues/21183) - Great thread with tips on debugging locks, dotnet counters, traces, etc
