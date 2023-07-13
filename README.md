@@ -39,7 +39,8 @@
 
 [▶️ Turbocharged: Writing High-performance C# and .NET code, by Steve Gordon](https://youtu.be/g8MYUfplpt8)
 
-[🧵 Here's some code that is on the hot path on your application and you want to optimize it](https://twitter.com/davidfowl/status/1678738294933159937?s=46&t=yujw2DLNFv52_bOxw4c15g) - David Fowler explaining how a string finding/splitting problem can be tackled to reduce allocations and optimize performance.
+[🧵 Here's some code that is on the hot path on your application and you want to optimize it](https://twitter.com/davidfowl/status/1678738294933159937?s=46&t=yujw2DLNFv52_bOxw4c15g) 
+[🧵](https://twitter.com/davidfowl/status/1679223885256957952?s=46&t=yujw2DLNFv52_bOxw4c15g) - David Fowler explaining how a string finding/splitting problem can be tackled to reduce allocations and optimize performance.
 
 [▶️ Building Secure Microservices in Azure - Jimmy Bogard](https://youtu.be/3611y9h-U-0)
 
