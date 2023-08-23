@@ -45,6 +45,8 @@
 
 [▶️ Building Secure Microservices in Azure - Jimmy Bogard](https://youtu.be/3611y9h-U-0)
 
+[📝 Tales from the .NET Migration Trenches - Jimmy Bogard](https://www.jimmybogard.com/tales-from-the-net-migration-trenches/) - A series of posts of a migration from .NET Framework to .NET 6.
+
 ## Debugging
 
 [Kestrel stops serving https (http2) requests after reboot under load](https://github.com/dotnet/aspnetcore/issues/21183) - Great thread with tips on debugging locks, dotnet counters, traces, etc
