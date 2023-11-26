@@ -99,6 +99,8 @@
 
 [📝 Proof of Concept for an Auth Gateway for SPA using YARP](https://github.com/manfredsteyer/yarp-auth-proxy) - Cookie auth between client and server (BFF/Gateway using YARP). The server holds tokens to downstream API:s. Client noes nothing of tokens.
 
+[GDPR for busy developers](https://event-driven.io/en/gdpr_for_busy_developers/) - Article by Oskar Dudycz anout the general practices around data governance, like segregation, data recency, and privacy by default.
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
