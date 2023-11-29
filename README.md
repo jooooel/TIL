@@ -184,6 +184,8 @@
 
 [🐳 .NET OpenTelemtry monitoring](https://twitter.com/davidfowl/status/1589060065134534659) - A Twitter thread on how to setup OpenTelemetry with ASP.NET Core. Tips on dashboards, exporters, metrics and other stuff linked in the comments.
 
+[📉 Grafana Agent Flow](https://grafana.com/blog/2022/09/29/introducing-programmable-pipelines-with-grafana-agent-flow/) - Grafana Agent is a telemetry collector, optimized for the Grafana LGTM (Loki, Grafana, Tempo, Mimir) stack. Flow aims to allow new users to easily set up, inspect, and iterate on their observability pipelines, and allow power users to combine components in novel ways, enabling them to achieve complex workflows without the need for dedicated Agent features.
+
 # Misc
 [🎧 Stefan Prodan on Progressive Delivery, Flagger, and GitOps](https://soundcloud.com/infoq-channel/interview-stefan-prodan)
 
