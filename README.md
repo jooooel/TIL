@@ -101,6 +101,8 @@
 
 [📝 GDPR for busy developers](https://event-driven.io/en/gdpr_for_busy_developers/) - Article by Oskar Dudycz anout the general practices around data governance, like segregation, data recency, and privacy by default.
 
+[🧑‍🏫 Authorization Academy](https://www.osohq.com/academy) - A series of technical guides for building application authorization. A course on how to think about authorization.
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
