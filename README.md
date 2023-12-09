@@ -103,6 +103,8 @@
 
 [🧑‍🏫 Authorization Academy](https://www.osohq.com/academy) - A series of technical guides for building application authorization. A course on how to think about authorization.
 
+[📝 Building a Critter Stack Application: Marten as Event Store](https://jeremydmiller.com/2023/11/29/building-a-critter-stack-application-marten-as-event-store/)
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
