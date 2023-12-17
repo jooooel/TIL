@@ -105,6 +105,8 @@
 
 [📝 Building a Critter Stack Application: Marten as Event Store](https://jeremydmiller.com/2023/11/29/building-a-critter-stack-application-marten-as-event-store/)
 
+[📝 Azure SaaS Dev Kit](https://azure.github.io/azure-saas/) - A template and best practices for building multitenant SaaS applications on Azure.
+
 # Microservices 
 [🎧 The monolith vs microservices debate](https://changelog.com/gotime/126)
 
