@@ -237,3 +237,6 @@
 [📝 Practical Go lessons](https://www.practical-go-lessons.com)
 
 [📝 How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/?utm_source=substack&utm_medium=email)
+
+# Machine Learning
+[🎧 Generative models: exploration to deployment](https://overcast.fm/+NvtsaS8Z0) - A good summary on how to going from choosing a model, to deploying it.
