@@ -156,6 +156,8 @@
 
 [📝 Exploring Kubernetes Operator Pattern](https://iximiuz.com/en/posts/kubernetes-operator-pattern/) - Mostly about CRDs and the kubernetes API.
 
+[📝 For the Love of God, Stop Using CPU Limits on Kubernetes](https://home.robusta.dev/blog/stop-using-cpu-limits) - A post about why you shouldn't set CPU limits on pods.
+
 ## Cassandra
 [▶️ Introduction to Apache Cassandra](https://www.youtube.com/watch?v=B_HTdrTgGNs)
 
