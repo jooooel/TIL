@@ -49,6 +49,8 @@
 
 [▶️ ASP.NET Core Angular Authentication with Identity & EF Core](https://www.youtube.com/watch?v=bSWKhoOzBvc) - A good walkthrough regarding how to add Identity to an ASP.NET Core project using minimal API. Roles, authorization, policies, etc and also shows a way of structuring HTTP handlers.
 
+[▶️ Authorization for Modern Applications @ DevConf 2018](https://m.youtube.com/watch?v=Dlrf85NTuAU) - Dominick Baier talking about Authorization.
+
 ## Debugging
 
 [Kestrel stops serving https (http2) requests after reboot under load](https://github.com/dotnet/aspnetcore/issues/21183) - Great thread with tips on debugging locks, dotnet counters, traces, etc
