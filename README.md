@@ -245,6 +245,8 @@
 # AI
 [🎧 Generative models: exploration to deployment](https://overcast.fm/+NvtsaS8Z0) - A good summary on how to going from choosing a model, to deploying it.
 
+[📖 OpenAI Cookbook](https://cookbook.openai.com/) - A lot of examples for how to use ChatGPT.
+
 ## Prompt Engineering
 [🧙‍♂️ Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - Hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.
 
