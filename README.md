@@ -242,5 +242,9 @@
 
 [📝 How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/?utm_source=substack&utm_medium=email)
 
-# Machine Learning
+# AI
 [🎧 Generative models: exploration to deployment](https://overcast.fm/+NvtsaS8Z0) - A good summary on how to going from choosing a model, to deploying it.
+
+[🧙‍♂️ Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - Hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.
+
+[🔗 Awesome GPT Prompt Engineering ](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
