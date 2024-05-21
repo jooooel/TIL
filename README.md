@@ -248,3 +248,5 @@
 [🧙‍♂️ Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - Hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.
 
 [🔗 Awesome GPT Prompt Engineering ](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
+
+[⚡️ OpenAI: Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering) - A guide with examples, strategies and tactics for getting better results from large language models.
