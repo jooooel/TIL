@@ -247,12 +247,14 @@
 
 [📖 OpenAI Cookbook](https://cookbook.openai.com/) - A lot of examples for how to use ChatGPT.
 
-## Prompt Engineering
+## LLMOps
 [🧙‍♂️ Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - Hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.
 
 [🔗 Awesome GPT Prompt Engineering ](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 
 [⚡️ OpenAI: Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering) - A guide with examples, strategies and tactics for getting better results from large language models.
+
+[🧑‍💻 Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps?tab=readme-ov-file#llmops) - A curated list of LLMOps tools.
 
 ## Evaluating results
 [🧪 How to evaluate a summarization task](https://cookbook.openai.com/examples/evaluation/how_to_eval_abstractive_summarization) - Evaluate a summarization task using ROUGE, BERTScore or an LLM. 
