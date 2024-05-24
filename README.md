@@ -247,6 +247,8 @@
 
 [📖 OpenAI Cookbook](https://cookbook.openai.com/) - A lot of examples for how to use ChatGPT.
 
+[📖 LLM for Book Summaries (Comprehensive Bulleted Notes): Walkthrough and Model Rankings](https://github.com/cognitivetech/llm-long-text-summarization/) - Detailed walkthrough on how to summarize large texts (books) using locally run models.
+
 ## LLMOps
 [🧙‍♂️ Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - Hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.
 
