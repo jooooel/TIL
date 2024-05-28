@@ -249,6 +249,8 @@
 
 [📖 LLM for Book Summaries (Comprehensive Bulleted Notes): Walkthrough and Model Rankings](https://github.com/cognitivetech/llm-long-text-summarization/) - Detailed walkthrough on how to summarize large texts (books) using locally run models.
 
+[▶️ A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - Jeremy Howard talks about how LLMs work and shows some examples of RAG and fine tuning.
+
 ## LLMOps
 [🧙‍♂️ Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - Hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.
 
