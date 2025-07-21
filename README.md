@@ -1,3 +1,12 @@
+# AI
+[🎧 Generative models: exploration to deployment](https://overcast.fm/+NvtsaS8Z0) - A good summary on how to going from choosing a model, to deploying it.
+
+[📖 OpenAI Cookbook](https://cookbook.openai.com/) - A lot of examples for how to use ChatGPT.
+
+[📖 LLM for Book Summaries (Comprehensive Bulleted Notes): Walkthrough and Model Rankings](https://github.com/cognitivetech/llm-long-text-summarization/) - Detailed walkthrough on how to summarize large texts (books) using locally run models.
+
+[▶️ A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - Jeremy Howard talks about how LLMs work and shows some examples of RAG and fine tuning.
+
 # .NET
 [📝 .NET & GRPC What they forgot to tell you](https://www.faesel.com/blog/dotnet-grpc-forgot-to-tell-you) - More practical advice than just "How to do HelloWorld".
 
@@ -241,15 +250,6 @@
 [📝 Practical Go lessons](https://www.practical-go-lessons.com)
 
 [📝 How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/?utm_source=substack&utm_medium=email)
-
-# AI
-[🎧 Generative models: exploration to deployment](https://overcast.fm/+NvtsaS8Z0) - A good summary on how to going from choosing a model, to deploying it.
-
-[📖 OpenAI Cookbook](https://cookbook.openai.com/) - A lot of examples for how to use ChatGPT.
-
-[📖 LLM for Book Summaries (Comprehensive Bulleted Notes): Walkthrough and Model Rankings](https://github.com/cognitivetech/llm-long-text-summarization/) - Detailed walkthrough on how to summarize large texts (books) using locally run models.
-
-[▶️ A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - Jeremy Howard talks about how LLMs work and shows some examples of RAG and fine tuning.
 
 ## LLMOps
 [🧙‍♂️ Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - Hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.
