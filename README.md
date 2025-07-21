@@ -7,6 +7,24 @@
 
 [▶️ A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - Jeremy Howard talks about how LLMs work and shows some examples of RAG and fine tuning.
 
+[🐥 PSA: Claude Code can parallelize agents](https://www.reddit.com/r/ClaudeAI/comments/1l4jocr/psa_claude_code_can_parallelize_agents/)
+
+[📝 Claude Code best practices](https://www.anthropic.com/engineering/claude-code-best-practices)
+
+[🧑‍💻 ccusage](https://github.com/ryoppippi/ccusage)
+
+[📝 How I use Claude Code](https://spiess.dev/blog/how-i-use-claude-code)
+
+[📝 Essential reading](https://steipete.me/posts/2025/essential-reading)
+
+## AI coding tools
+
+[🧑‍💻 Claude Squad](https://github.com/smtg-ai/claude-squad)
+
+[🌐 Conductor](https://conductor.build)
+
+[🌐 Magnet](https://www.magnet.run)
+
 # .NET
 [📝 .NET & GRPC What they forgot to tell you](https://www.faesel.com/blog/dotnet-grpc-forgot-to-tell-you) - More practical advice than just "How to do HelloWorld".
 
