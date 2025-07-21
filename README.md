@@ -7,23 +7,25 @@
 
 [▶️ A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - Jeremy Howard talks about how LLMs work and shows some examples of RAG and fine tuning.
 
-[🐥 PSA: Claude Code can parallelize agents](https://www.reddit.com/r/ClaudeAI/comments/1l4jocr/psa_claude_code_can_parallelize_agents/)
+[📝 Essential reading](https://steipete.me/posts/2025/essential-reading) - Curated list of essential AI and programming articles and resources for 2025.
 
-[📝 Claude Code best practices](https://www.anthropic.com/engineering/claude-code-best-practices)
+## Claude Code
 
-[🧑‍💻 ccusage](https://github.com/ryoppippi/ccusage)
+[🐥 PSA: Claude Code can parallelize agents](https://www.reddit.com/r/ClaudeAI/comments/1l4jocr/psa_claude_code_can_parallelize_agents/) - Reddit discussion about Claude's ability to run multiple coding agents in parallel for complex tasks.
 
-[📝 How I use Claude Code](https://spiess.dev/blog/how-i-use-claude-code)
+[📝 Claude Code best practices](https://www.anthropic.com/engineering/claude-code-best-practices) - Official Anthropic guide with best practices for using Claude's coding capabilities effectively.
 
-[📝 Essential reading](https://steipete.me/posts/2025/essential-reading)
+[🧑‍💻 ccusage](https://github.com/ryoppippi/ccusage) - CLI tool to track and manage Claude Code usage and costs.
+
+[📝 How I use Claude Code](https://spiess.dev/blog/how-i-use-claude-code) - Personal workflow and tips for effectively using Claude Code in development projects.
 
 ## AI coding tools
 
-[🧑‍💻 Claude Squad](https://github.com/smtg-ai/claude-squad)
+[🧑‍💻 Claude Squad](https://github.com/smtg-ai/claude-squad) - Framework for coordinating multiple Claude instances to work together on complex coding tasks.
 
-[🌐 Conductor](https://conductor.build)
+[🌐 Conductor](https://conductor.build) - AI-powered code generation and project management platform for software development.
 
-[🌐 Magnet](https://www.magnet.run)
+[🌐 Magnet](https://www.magnet.run) - AI coding assistant that helps with code review, debugging, and development workflow automation.
 
 # .NET
 [📝 .NET & GRPC What they forgot to tell you](https://www.faesel.com/blog/dotnet-grpc-forgot-to-tell-you) - More practical advice than just "How to do HelloWorld".
