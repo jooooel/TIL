@@ -9,6 +9,8 @@
 
 [📝 Essential reading](https://steipete.me/posts/2025/essential-reading) - Curated list of essential AI and programming articles and resources for 2025.
 
+[🧑‍💻 LangExtract](https://github.com/google/langextract) - Python library by Google that uses LLMs to extract structured information from unstructured text documents with precise source grounding and optimized for long documents.
+
 ## Claude Code
 
 [🐥 PSA: Claude Code can parallelize agents](https://www.reddit.com/r/ClaudeAI/comments/1l4jocr/psa_claude_code_can_parallelize_agents/) - Reddit discussion about Claude's ability to run multiple coding agents in parallel for complex tasks.
