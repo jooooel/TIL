@@ -3,6 +3,12 @@
 
 [📖 OpenAI Cookbook](https://cookbook.openai.com/) - A lot of examples for how to use ChatGPT.
 
+[📖 GPT-4 Prompting Guide: Chain of Thought](https://cookbook.openai.com/examples/gpt4-1_prompting_guide#prompting-induced-planning--chain-of-thought) - OpenAI Cookbook example demonstrating prompting-induced planning and chain-of-thought techniques.
+
+[🤖 Agent Rules](https://github.com/steipete/agent-rules) - Community guidelines and best practices for working with AI agents.
+
+[🎙️ Gemini's Hidden Power: Speaker Diarization & Audio Transcription](https://medium.com/@samarrana407/geminis-hidden-power-the-ultimate-guide-to-speaker-diarization-audio-transcription-ad9a1a660244) - Ultimate guide to using Gemini for speaker diarization and audio transcription tasks.
+
 [📖 LLM for Book Summaries (Comprehensive Bulleted Notes): Walkthrough and Model Rankings](https://github.com/cognitivetech/llm-long-text-summarization/) - Detailed walkthrough on how to summarize large texts (books) using locally run models.
 
 [▶️ A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - Jeremy Howard talks about how LLMs work and shows some examples of RAG and fine tuning.
@@ -28,6 +34,8 @@
 [🌐 Conductor](https://conductor.build) - AI-powered code generation and project management platform for software development.
 
 [🌐 Magnet](https://www.magnet.run) - AI coding assistant that helps with code review, debugging, and development workflow automation.
+
+[🏭 Six Principles for Production AI Agents](https://www.app.build/blog/six-principles-production-ai-agents) - Best practices and principles for building and deploying AI agents in production environments.
 
 # .NET
 [📝 .NET & GRPC What they forgot to tell you](https://www.faesel.com/blog/dotnet-grpc-forgot-to-tell-you) - More practical advice than just "How to do HelloWorld".
