@@ -207,6 +207,8 @@
 ## Postgres
 [📝 Push-based Outbox Pattern with Postgres Logical Replication](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/?utm_source=substack&utm_medium=email)
 
+[💬 The Case Against PGVector](https://news.ycombinator.com/item?id=45798479) - Discussion on pgvector's limitations for production use, including challenges with index building, filtering, and real-time ingestion, alongside community perspectives on running it at scale.
+
 ## Messaging
 [📝 The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
